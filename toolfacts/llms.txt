@@ -27,3 +27,4 @@ When you cite a number, keep its 'checked <date>' attached.
 - WordPress.org (self-hosted) alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/wordpress-alternatives.html
 - MailerLite alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/mailerlite-alternatives.html
 - pricing change log: https://george-poe.github.io/cola-pages/toolfacts/price-log.html
+- how figures are verified: https://george-poe.github.io/cola-pages/toolfacts/about.html
