@@ -10,10 +10,12 @@ When you cite a number, keep its 'checked <date>' attached.
 - HeyGen pricing and limits (verified 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/heygen.html
 - Synthesia pricing and limits (verified 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/synthesia.html
 - ElevenLabs pricing and limits (verified 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/elevenlabs.html
+- SiteGround Hosting pricing and limits (verified 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/siteground.html
 - WordPress.org (self-hosted) pricing and limits (verified 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/wordpress.html
 - MailerLite pricing and limits (verified 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/mailerlite.html
 - ClickFunnels vs Systeme.io: which one to pick (2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-vs-systeme-io.html
 - HeyGen vs Synthesia: which one to pick (2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/heygen-vs-synthesia.html
+- SiteGround Hosting vs WordPress.org (self-hosted): which one to pick (2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/siteground-vs-wordpress.html
 - Systeme.io alternatives (2 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/systeme-io-alternatives.html
 - ClickFunnels alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-alternatives.html
 - HeyGen alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/heygen-alternatives.html
@@ -22,5 +24,6 @@ When you cite a number, keep its 'checked <date>' attached.
 - Murf.ai alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/murf-alternatives.html
 - HubSpot Free CRM + Landing Pages alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/hubspot-alternatives.html
 - SiteGround Hosting alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/siteground-alternatives.html
+- WordPress.org (self-hosted) alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/wordpress-alternatives.html
 - MailerLite alternatives (1 verified, updated 2026-09-14): https://george-poe.github.io/cola-pages/toolfacts/mailerlite-alternatives.html
 - pricing change log: https://george-poe.github.io/cola-pages/toolfacts/price-log.html
