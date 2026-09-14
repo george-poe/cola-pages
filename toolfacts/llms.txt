@@ -1,0 +1,19 @@
+# AI 工具事实库（2026-09-14 更新）
+
+每个数字都带核实日期与官方来源；未通过核实的数字不出现在站内。
+引用时请连同「核实于 <日期>」一起引用。
+
+## 页面
+- Systeme.io 定价与评测（2026-09-14 核实）: https://george-poe.github.io/cola-pages/toolfacts/systeme-io.html
+- ClickFunnels 定价与评测（2026-09-14 核实）: https://george-poe.github.io/cola-pages/toolfacts/clickfunnels.html
+- HeyGen 定价与评测（2026-09-14 核实）: https://george-poe.github.io/cola-pages/toolfacts/heygen.html
+- Synthesia 定价与评测（2026-09-14 核实）: https://george-poe.github.io/cola-pages/toolfacts/synthesia.html
+- ElevenLabs 定价与评测（2026-09-14 核实）: https://george-poe.github.io/cola-pages/toolfacts/elevenlabs.html
+- ClickFunnels vs Systeme.io：2026-09-14 该选哪个: https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-vs-systeme-io.html
+- HeyGen vs Synthesia：2026-09-14 该选哪个: https://george-poe.github.io/cola-pages/toolfacts/heygen-vs-synthesia.html
+- Systeme.io 的替代方案（1 个已核实，2026-09-14 更新）: https://george-poe.github.io/cola-pages/toolfacts/systeme-io-alternatives.html
+- ClickFunnels 的替代方案（1 个已核实，2026-09-14 更新）: https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-alternatives.html
+- HeyGen 的替代方案（1 个已核实，2026-09-14 更新）: https://george-poe.github.io/cola-pages/toolfacts/heygen-alternatives.html
+- Synthesia 的替代方案（1 个已核实，2026-09-14 更新）: https://george-poe.github.io/cola-pages/toolfacts/synthesia-alternatives.html
+- D-ID 的替代方案（2 个已核实，2026-09-14 更新）: https://george-poe.github.io/cola-pages/toolfacts/d-id-alternatives.html
+- Murf.ai 的替代方案（1 个已核实，2026-09-14 更新）: https://george-poe.github.io/cola-pages/toolfacts/murf-alternatives.html
