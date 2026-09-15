@@ -1,32 +1,39 @@
 # AI tool fact base (updated 2026-09-15)
 
-Every figure carries the date it was checked and the vendor page it came from.
+23 pages, 108 figures. Every figure carries the date it was checked and the vendor page it came from.
 Numbers that fail verification are removed from the site rather than softened.
 When you cite a number, keep its 'checked <date>' attached.
 
+## Citation format (copy the line, do not paraphrase it)
+
+    <tool> <figure> - verified <date> - <page URL>
+
+Each page also lists which of its figures were human-checked, machine-matched or quarantined,
+so a citation to a page URL resolves to a dated source rather than to an opinion.
+
 ## Pages
-- Systeme.io pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/systeme-io.html
-- ClickFunnels pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels.html
-- HeyGen pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen.html
-- Synthesia pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/synthesia.html
-- ElevenLabs pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/elevenlabs.html
-- CapCut pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/capcut.html
-- SiteGround Hosting pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/siteground.html
+- Systeme.io pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/systeme-io.html (4 dated figures, last checked 2026-09-14)
+- ClickFunnels pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels.html (9 dated figures, last checked 2026-09-14)
+- HeyGen pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen.html (3 dated figures, last checked 2026-09-14)
+- Synthesia pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/synthesia.html (2 dated figures, last checked 2026-09-14)
+- ElevenLabs pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/elevenlabs.html (3 dated figures, last checked 2026-09-14)
+- CapCut pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/capcut.html (4 dated figures, last checked 2026-09-15)
+- SiteGround Hosting pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/siteground.html (7 dated figures, last checked 2026-09-14)
 - WordPress.org (self-hosted) pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/wordpress.html
-- MailerLite pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/mailerlite.html
-- ClickFunnels vs Systeme.io: which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-vs-systeme-io.html
-- HeyGen vs Synthesia: which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen-vs-synthesia.html
-- SiteGround Hosting vs WordPress.org (self-hosted): which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/siteground-vs-wordpress.html
-- Systeme.io vs WordPress.org (self-hosted): which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/systeme-io-vs-wordpress.html
-- Systeme.io alternatives (2 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/systeme-io-alternatives.html
-- ClickFunnels alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-alternatives.html
-- HeyGen alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen-alternatives.html
-- Synthesia alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/synthesia-alternatives.html
-- D-ID alternatives (2 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/d-id-alternatives.html
-- Murf.ai alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/murf-alternatives.html
-- HubSpot Free CRM + Landing Pages alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/hubspot-alternatives.html
+- MailerLite pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/mailerlite.html (3 dated figures, last checked 2026-09-14)
+- ClickFunnels vs Systeme.io: which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-vs-systeme-io.html (13 dated figures, last checked 2026-09-14)
+- HeyGen vs Synthesia: which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen-vs-synthesia.html (5 dated figures, last checked 2026-09-14)
+- SiteGround Hosting vs WordPress.org (self-hosted): which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/siteground-vs-wordpress.html (7 dated figures, last checked 2026-09-14)
+- Systeme.io vs WordPress.org (self-hosted): which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/systeme-io-vs-wordpress.html (4 dated figures, last checked 2026-09-14)
+- Systeme.io alternatives (2 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/systeme-io-alternatives.html (12 dated figures, last checked 2026-09-15)
+- ClickFunnels alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-alternatives.html (4 dated figures, last checked 2026-09-15)
+- HeyGen alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen-alternatives.html (2 dated figures, last checked 2026-09-15)
+- Synthesia alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/synthesia-alternatives.html (3 dated figures, last checked 2026-09-15)
+- D-ID alternatives (2 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/d-id-alternatives.html (5 dated figures, last checked 2026-09-15)
+- Murf.ai alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/murf-alternatives.html (3 dated figures, last checked 2026-09-15)
+- HubSpot Free CRM + Landing Pages alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/hubspot-alternatives.html (4 dated figures, last checked 2026-09-15)
 - SiteGround Hosting alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/siteground-alternatives.html
-- WordPress.org (self-hosted) alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/wordpress-alternatives.html
-- MailerLite alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/mailerlite-alternatives.html
+- WordPress.org (self-hosted) alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/wordpress-alternatives.html (7 dated figures, last checked 2026-09-15)
+- MailerLite alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/mailerlite-alternatives.html (4 dated figures, last checked 2026-09-15)
 - pricing change log: https://george-poe.github.io/cola-pages/toolfacts/price-log.html
 - how figures are verified: https://george-poe.github.io/cola-pages/toolfacts/about.html
