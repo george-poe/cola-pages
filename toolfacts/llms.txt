@@ -10,12 +10,14 @@ When you cite a number, keep its 'checked <date>' attached.
 - HeyGen pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen.html
 - Synthesia pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/synthesia.html
 - ElevenLabs pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/elevenlabs.html
+- CapCut pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/capcut.html
 - SiteGround Hosting pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/siteground.html
 - WordPress.org (self-hosted) pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/wordpress.html
 - MailerLite pricing and limits (verified 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/mailerlite.html
 - ClickFunnels vs Systeme.io: which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-vs-systeme-io.html
 - HeyGen vs Synthesia: which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen-vs-synthesia.html
 - SiteGround Hosting vs WordPress.org (self-hosted): which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/siteground-vs-wordpress.html
+- Systeme.io vs WordPress.org (self-hosted): which one to pick (2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/systeme-io-vs-wordpress.html
 - Systeme.io alternatives (2 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/systeme-io-alternatives.html
 - ClickFunnels alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/clickfunnels-alternatives.html
 - HeyGen alternatives (1 verified, updated 2026-09-15): https://george-poe.github.io/cola-pages/toolfacts/heygen-alternatives.html
